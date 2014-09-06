@@ -1,0 +1,1 @@
+The solution for the Sherlock and Squares Problem from HackerRank.
